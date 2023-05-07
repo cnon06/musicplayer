@@ -1,0 +1,58 @@
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+/* .controls 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 30px;
+    color: purple;
+    margin-right: 20px;
+} */
+
+.container
+{
+    width: 400px;
+}
+
+/* .progress
+{
+    margin-bottom: 20px;
+} */
+
+#progress-bar
+{
+    width: 100%;
+}
+
+.times
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#music-image
+{
+    width: 100%;
+}
+
+.card-footer
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li.playing
+{
+    background-color: #0b5eb7;
+    color: #fff;
+}
